@@ -35,7 +35,7 @@ mean_img = mx.nd.load(model_dir + 'Inception/mean_224.nd')['mean_img']
 model_21K = f.model_21K(model_dir)
 
 #Prepare for test loop
-max_images = 1000 # stop after processing this number of images
+max_images = 50 # stop after processing this number of images
 count     = 0     # image count
 errcount  = 0     # count of images in error
 start_ = datetime.datetime.today()
