@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 14 21:48:45 2017
 Fire detection
-Author: Alexander Popov. 2017
+Author: Alexander Popov. 2017-2019
 GPL V2
 """
 
