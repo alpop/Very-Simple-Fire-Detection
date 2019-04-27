@@ -1,1 +1,1 @@
-# Very-Simple-Fire-Detection
+# Very Simple Fire Detection
