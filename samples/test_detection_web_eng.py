@@ -6,7 +6,7 @@ GPL V2
 
 import sys
 
-#Models, scripts and images are here
+#Models, scripts and images are here 
 model_dir  = '../models/' 
 sys.path.append('..')
 images    = './images.url' 
